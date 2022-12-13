@@ -42,6 +42,10 @@ RECIPES = {
         'price': 11,
         'sauce': 'tomato'
     },
+    'romana': {
+        'ingredients': {'ham': 4, 'olive': 3, 'onion': 2, 'basil': 2},
+        'price': 12,
+    },
     'original': {
         'ingredients': {'garlic': 5, 'pepper': 4, 'parmesan': 2},
         'price': 10,
